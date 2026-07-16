@@ -363,30 +363,25 @@ async function sendMessage(){
 
 
 
-        await fetch(
+  await fetch(
 
-            "/api/messages",
+    "http://localhost:3000/api/messages",
 
-            {
+    {
 
-                method:"POST",
+        method:"POST",
 
+        headers:{
 
-                headers:{
+            "Content-Type":"application/json"
 
-                    "Content-Type":
-                    "application/json"
+        },
 
-                },
+        body: JSON.stringify(data)
 
+    }
 
-                body:
-                JSON.stringify(data)
-
-
-            }
-
-        );
+);
 
 
 

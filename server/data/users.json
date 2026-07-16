@@ -54,5 +54,47 @@
     "email": "mathias1",
     "password": "$2b$10$Ep.eYtFa0Z/l3J8ZnxJv.ON44dHprU6aMZhXW5qL8FzjN.GB6ZbRy",
     "createdAt": "2026-07-16T01:31:17.250Z"
+  },
+  {
+    "id": 1784170407977,
+    "username": "Mathias",
+    "email": "mathias123",
+    "password": "$2b$10$YrE2n37mNFQd31b7dtCwUuu0GsITTusrbQMHadKoOMq.ftZ5XaYs.",
+    "createdAt": "2026-07-16T02:53:27.977Z"
+  },
+  {
+    "id": 1784170484991,
+    "username": "toxicx",
+    "email": "olimpo",
+    "password": "$2b$10$/wX4cSilplftTndYYMEqbeMTjlph47JN5c9bonbWu74sE6xX5f2Cu",
+    "createdAt": "2026-07-16T02:54:44.991Z"
+  },
+  {
+    "id": 1784170969749,
+    "username": "sda",
+    "email": "das",
+    "password": "$2b$10$ZSzJSRAywY05VMh1AE7d6e0yxTHsuXRIU7cTjxYLOKnk3s.HAzsxS",
+    "createdAt": "2026-07-16T03:02:49.749Z"
+  },
+  {
+    "id": 1784170988900,
+    "username": "Toxicx",
+    "email": "Yosoy@programador",
+    "password": "$2b$10$BBz1y7fWilMQ/NfZperbFONzGHnVZuPNyy2O.8y.6Vx92eMUN5JAi",
+    "createdAt": "2026-07-16T03:03:08.900Z"
+  },
+  {
+    "id": 1784171022850,
+    "username": "Programador",
+    "email": "Hola123",
+    "password": "$2b$10$s9.bPezz46rcJ0YAfU9tSOGK/Wf3ykTxV06QTAsiBsTplMbM.auFu",
+    "createdAt": "2026-07-16T03:03:42.850Z"
+  },
+  {
+    "id": 1784171246493,
+    "username": "Hola",
+    "email": "Hola12345",
+    "password": "$2b$10$I3PhsTuwuQI5bPEO1FGnseQo1iGnKx.a5c7FV411QwkDPPS/iRA2W",
+    "createdAt": "2026-07-16T03:07:26.493Z"
   }
 ]
